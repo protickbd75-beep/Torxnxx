@@ -1,0 +1,4 @@
+SocksPort 9050
+DataDirectory /tmp/tor-data
+Log notice stderr
+MaxCircuitDirtiness 600

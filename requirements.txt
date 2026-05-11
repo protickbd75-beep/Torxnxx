@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+httpx[socks]==0.27.0
+onionsearch==1.3
+requests[socks]==2.31.0
+PySocks==1.7.1
+beautifulsoup4==4.12.3
+html5lib==1.1
+tqdm==4.66.4
